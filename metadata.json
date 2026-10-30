@@ -1,0 +1,8 @@
+{
+  "name": "LensaPay Uganda",
+  "description": "LensaPay Uganda photo-earning platform. Earn daily by uploading photos with instant MTN & Airtel Mobile Money withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

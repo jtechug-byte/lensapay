@@ -1,0 +1,15 @@
+{
+  "name": "LensaPay Uganda",
+  "short_name": "LensaPay",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#0CA651",
+  "background_color": "#0CA651",
+  "display": "standalone"
+}
